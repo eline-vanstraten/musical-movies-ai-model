@@ -41,12 +41,11 @@ async function sendChat(prompt) {
 
         const result = await data.json();
         // console.log(result.tokens);
-        console.log(result.question);
-        console.log(result.answers);
-        console.log(result.questionNumber);
-        console.log(result.score);
-        console.log(result.userId);
-        console.log(result.feedback);
+        // console.log(result.question);
+        // console.log(result.answers);
+        // console.log(result.questionNumber);
+        // console.log(result.score);
+        // console.log(result.feedback);
 
 
         let botDiv = document.createElement("div");
