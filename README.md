@@ -34,7 +34,7 @@ cd musical-movies-ai-model
 3. Installeer dependencies:
 
 ```sh
-npm install @langchain/openai @langchain/core
+npm install langchain @langchain/openai @langchain/core
 npm install express
 
 ```
